@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
+# # Researchs markdown generator for academicpages
 # 
-# Takes a set of bibtex of publications and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). 
+# Takes a set of bibtex of researchs and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). 
 # 
 # The core python code is also in `pubsFromBibs.py`. 
 # Run either from the `markdown_generator` folder after replacing updating the publist dictionary with:
@@ -24,22 +24,22 @@ import html
 import os
 import re
 
-#todo: incorporate different collection types rather than a catch all publications, requires other changes to template
+#todo: incorporate different collection types rather than a catch all researchs, requires other changes to template
 publist = {
     "proceeding": {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+        "collection" : {"name":"researchs",
+                        "permalink":"/research/"}
         
     },
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+        "collection" : {"name":"researchs",
+                        "permalink":"/research/"}
     } 
 }
 
@@ -151,7 +151,7 @@ for pubsource in publist:
 
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, 'w') as f:
+            with open("../_researchs/" + md_filename, 'w') as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference

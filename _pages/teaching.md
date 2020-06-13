@@ -5,19 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h2> Teaching Assistantships at Cornell University</h2>
+<p id="1.5-spaced" style="line-height: 150%;">
+<h2> Teaching Assistantships at Cornell University</h2><br>
 <div>Introductory Labor Economics (ILRLE2400 & ILRLE5400), Cornell University, Teaching Assistant, Spring, 2020</div>
 <div>Introductory Microeconomics (ECON1110), Cornell University, Teaching Assistant, Fall, 2017 </div><br>
+</p>
 
-<h2> NJ Mathematics Teaching Certification</h2>
+<p id="1.5-spaced" style="line-height: 150%;">
+<h2> NJ Mathematics Teaching Certification</h2><br>
 <div>Algebra I and II and Precalculus, Bergen County Academies, Student Teacher, Spring, 2016</div>
 <div>Remedial Math, Ramapo College Reclaim My Math Program, Student Instructor, 2013-2015</div>
 <div>Assorted Classes, River Dell Regional School District, Substitute Teacher, 2013-2016</div>
 <div>Calculus and Statistics, Ramapo College Office of Specialized Services, Tutor, 2013-2015</div>
+</p>
 	
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}

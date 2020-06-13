@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Teaching Assistantships at Cornell University</h2><br>
 <div>Introductory Labor Economics (ILRLE2400 & ILRLE5400), Cornell University, Teaching Assistant, Spring, 2020</div>

@@ -1,3 +1,8 @@
+# Themes
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -140,6 +145,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets`
 keep_files:
   - .git
   - .svn

@@ -4,6 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+{% include base_path %}
+
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Job Market Paper </h2><br>
 <div> The Effect of Teacher Tenure and Job Security on Performance</div> <br>

@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
+
 I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University.  My primary research interests include Labor Economics and the Economics of Education.   I have a particular interest in teacher selection and incentives to maximize student outcomes.   I expect to graduate in Spring 2022.
 
 <!-- My website is located at <https://KevinCNg.github.io>, which contains my CV and research materials. -->

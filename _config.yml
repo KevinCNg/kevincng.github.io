@@ -8,8 +8,6 @@ description              : &description "I am a Ph.D. candidate in Economics in 
 url                      : https://KevinCNg.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KevinCNg/KevinCNg.github.io"
-theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "dark"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) 
 words_per_minute         : 160
@@ -84,7 +82,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MUuSfRoAAAAJ&hl=en&oi=sra"
   email            : "kcn38@cornell.edu"
-  researchgate     : 
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :

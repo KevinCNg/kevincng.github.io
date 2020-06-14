@@ -25,7 +25,7 @@ redirect_from:
       <fieldset class="pure-group">
         <label for="email">Email:</label>
         <input id="email" name="email" type="email" value=""
-        required placeholder="Email"/>
+        required placeholder="e.g. kcn38@cornell.edu"/>
       </fieldset>
 
       <fieldset class="pure-group">
@@ -38,11 +38,9 @@ redirect_from:
         <i class="fa fa-paper-plane"></i>&nbsp;Send</button>
     </div>
     <div class="thankyou_message" style="display:none;">
-      <h2>Thank you for contacting me.
-        I will get back to you soon!</h2>
+      <h2>Thank you for contacting me!</h2>
     </div>
 
   </form>
 
-  <!-- Submit the Form to Google Using "AJAX" -->
   <script data-cfasync="false" src="form-submission-handler.js"></script>

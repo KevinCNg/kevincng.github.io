@@ -25,7 +25,7 @@ redirect_from:
       <fieldset class="pure-group">
         <label for="email">Email:</label>
         <input id="email" name="email" type="email" value=""
-        required placeholder="Example@email.com"/>
+        required placeholder="e.g. kcn38@cornell.edu"/>
       </fieldset>
 
       <fieldset class="pure-group">
@@ -43,4 +43,4 @@ redirect_from:
 
   </form>
 
-  <script data-cfasync="false" src="https://raw.githubusercontent.com/KevinCNg/kevincng.github.io/master/assets/js/form-submission-handler.js"></script>
+  <script data-cfasync="false" src="form-submission-handler.js"></script>

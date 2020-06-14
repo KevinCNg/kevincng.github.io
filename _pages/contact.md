@@ -23,7 +23,7 @@ redirect_from:
       </fieldset>
 
       <fieldset class="pure-group">
-        <label for="email"><em>Your</em> Email Address:</label>
+        <label for="email">Email:</label>
         <input id="email" name="email" type="email" value=""
         required placeholder="Email"/>
       </fieldset>
@@ -32,11 +32,6 @@ redirect_from:
         <label for="message">Message: </label>
         <textarea id="message" name="message" rows="10"
         placeholder="Message"></textarea>
-      </fieldset>
-
-      <fieldset class="pure-group honeypot-field">
-        <label for="honeypot">To help avoid spam, utilize a Honeypot technique with a hidden text field; must be empty to submit the form! Otherwise, we assume the user is a spam bot.</label>
-        <input id="honeypot" type="text" name="honeypot" value="" />
       </fieldset>
 
       <button class="button-success pure-button button-xlarge">

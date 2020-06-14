@@ -25,7 +25,7 @@ redirect_from:
       <fieldset class="pure-group">
         <label for="email">Email:</label>
         <input id="email" name="email" type="email" value=""
-        required placeholder="e.g. kcn38@cornell.edu"/>
+        required placeholder="Example@email.com"/>
       </fieldset>
 
       <fieldset class="pure-group">

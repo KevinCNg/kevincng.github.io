@@ -23,13 +23,13 @@ author_profile: true
       <fieldset class="pure-group">
         <label for="email">Email:</label>
         <input id="email" name="email" type="email" value=""
-        required placeholder="e.g. kcn38@cornell.edu"/>
+        required placeholder="example@email.com"/>
       </fieldset>
 
       <fieldset class="pure-group">
         <label for="message">Message: </label>
         <textarea id="message" name="message" rows="10"
-        placeholder="Message"></textarea>
+        placeholder="Message" /></textarea>
       </fieldset>
 
       <button class="button-success pure-button button-xlarge">

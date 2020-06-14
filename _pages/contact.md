@@ -3,8 +3,6 @@ layout: archive
 title: "CONTACT ME"
 permalink: /contact/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -43,4 +41,4 @@ redirect_from:
 
   </form>
 
-  <script data-cfasync="false" src="form-submission-handler.js"></script>
+  <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>

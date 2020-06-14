@@ -43,4 +43,4 @@ redirect_from:
 
   </form>
 
-  <script data-cfasync="false" src="form-submission-handler.js"></script>
+  <script data-cfasync="false" src="https://https://github.com/KevinCNg/kevincng.github.io/tree/master/assets/jsform-submission-handler.js"></script>

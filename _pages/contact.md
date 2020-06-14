@@ -40,6 +40,6 @@ author_profile: true
     </div>
 
   </form>
-
-  <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+<--! May need to change src="" when finding new domain name -->
+  <script data-cfasync="false" type="text/javascript" src="https://kevincng.github.io/assets/jsform-submission-handler.js"></script>
 </body>

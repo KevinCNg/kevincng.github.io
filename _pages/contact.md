@@ -12,7 +12,7 @@ author_profile: true
    <link rel="stylesheet" href="style.css">
 
   <form class="gform pure-form pure-form-stacked" method="POST" data-email=""
-  action="https://script.google.com/macros/s/AKfycbzw-akwfb8E3tzbGgDyOkux1D-fknMFfgwVj4loBGJGd12RZAk/exec">
+  action="https://script.google.com/macros/s/AKfycbyUGuOikgt01pXbtIzolxU1twBeNLHzuWW4UREPU9SMnToFFS_g/exec">
 
     <div class="form-elements">
       <fieldset class="pure-group">

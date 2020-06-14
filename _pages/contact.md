@@ -11,7 +11,7 @@ author_profile: true
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
    <link rel="stylesheet" href="style.css">
 
-  <form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
+  <form class="gform pure-form pure-form-stacked" method="POST" data-email=""
   action="https://script.google.com/macros/s/AKfycbyUGuOikgt01pXbtIzolxU1twBeNLHzuWW4UREPU9SMnToFFS_g/exec">
 
     <div class="form-elements">

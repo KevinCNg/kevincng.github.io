@@ -41,5 +41,5 @@ author_profile: true
 
   </form>
 
-  <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+  <script data-cfasync="false" type="text/javascript" src="https://files.cargocollective.com/c523925/form-submission-handler.js"></script>
 </body>

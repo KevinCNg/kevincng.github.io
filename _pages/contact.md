@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<body>
    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
    <link rel="stylesheet" href="style.css">
@@ -42,3 +42,4 @@ author_profile: true
   </form>
 
   <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+</body>

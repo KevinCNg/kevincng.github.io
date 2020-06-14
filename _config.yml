@@ -116,8 +116,9 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets/js/form-submission-handler.js
 
-  exclude:
+exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

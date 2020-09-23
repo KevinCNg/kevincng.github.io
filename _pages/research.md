@@ -15,8 +15,8 @@ author_profile: true
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Working Papers </h2><br>
-<div>Risks and Rewards: The Returns to STEM Programs for Less-Prepared Students, with Evan Riehl</div><br>
-<div>We examine how returns to enrolling in science, technology, engineering, and math (STEM) programs vary with students’ academic preparation. We match data on STEM admissions at a Colombian flagship university to nationwide college and earnings records. Our identification strategy combines a regression discontinuity design with variation in admission quotas. We find that less-prepared students were less likely to complete a STEM degree than their more able peers, but they had larger earnings returns to enrolling. Thus less-prepared students may face a stark risk/reward tradeoff in pursuing STEM degrees, which has implications for policies that promote STEM enrollment.</div> <br>
+<div>The Returns to STEM Programs for Less-Prepared Students, with Evan Riehl</div><br>
+<div>We examine how returns to enrolling in science, technology, engineering, and math (STEM) programs vary with students’ academic preparation. We match data on STEM admissions at a Colombian flagship university to nationwide college and earnings records. Our identification strategy combines a regression discontinuity design with variation in admission quotas. We find that less-prepared students were less likely to complete a STEM degree than their more able peers, but they had larger earnings returns to enrolling. Our results suggest that policies that encourage less-prepared students to enroll in STEM programs can yield large but unevenly distributed earnings gains.</div> <br>
 </p>
 
 <p id="1.5-spaced" style="line-height: 150%;">

@@ -17,12 +17,10 @@ author_profile: true
 <h2> Working Papers </h2><br>
 <div>The Returns to STEM Programs for Less-Prepared Students, with Evan Riehl</div><br>
 <div>We examine how returns to enrolling in science, technology, engineering, and math (STEM) programs vary with students’ academic preparation. We match data on STEM admissions at a Colombian flagship university to nationwide college and earnings records. Our identification strategy combines a regression discontinuity design with variation in admission quotas. We find that less-prepared students were less likely to complete a STEM degree than their more able peers, but they had larger earnings returns to enrolling. Our results suggest that policies that encourage less-prepared students to enroll in STEM programs can yield large but unevenly distributed earnings gains.</div> <br>
-</p>
 
 <div>Can Schools Predict Teacher Performance?</div><br>
 <div>This study examines the connection between past and future teacher value-added and teacher evaluations.  I leverage a unique data set with over 108,000 teacher-year observations to correlate the value-added measures and evaluations.  I proceed to search for heterogeneity in the connection between value-added and evaluations based on a variety of observable characteristics.  Utilizing machine learning techniques, I estimate optimal weights on prior teacher performance to predict career performance.  Using these future performance predictions, I simulate revised personnel decisions to determine whether schools are optimally incorporating the information available to them.</div> <br>
 </p>
-
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications </h2><br>

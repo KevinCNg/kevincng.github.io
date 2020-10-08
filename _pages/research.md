@@ -10,7 +10,7 @@ author_profile: true
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Job Market Paper </h2><br>
 <div> The Effects of Teacher Tenure and Job Security on Performance</div> <br>
-<div>This study examines the costs and benefits of tenure by leveraging quasi-experimental variation from the 2012 Teacher Effectiveness and Accountability for the Children of New Jersey (TEACHNJ) Act. This law lengthened the time needed to earn tenure from three years to four years. I estimate the causal impact of teacher tenure on teacher motivation, as measured by value-added and teacher evaluations. A differences-in-differences model estimates the effect of tenure by comparing fourth-year tenured teachers (hired before TEACHNJ) to fourth-year pretenured teachers (hired after TEACHNJ). If there is reduced effort in response to tenure, tenured teachers would have lower value-added than pretenured teachers conditional on experience. I also study changes in the teacher labor market in response to the policy change. </div><br>
+<div>This study examines the costs and benefits of tenure by leveraging quasi-experimental variation from the 2012 Teacher Effectiveness and Accountability for the Children of New Jersey (TEACHNJ) Act.  This law lengthened the time needed to earn tenure from three years to four years.  I estimate the causal impact of teacher tenure on teacher motivation, as measured by value-added and teacher evaluations.  A differences-in-differences model estimates the effect of tenure by comparing fourth-year tenured teachers to fourth-year pretenured teachers.  If there is reduced effort in response to tenure, tenured teachers would have lower performance than pretenured teachers conditional on experience.  I also conduct a Regression Discontinuity Design relying on discontinuities in job security around evaluation score thresholds to estimate tenure's effects on lower performing teachers later in their careers.  Finally, the study evaluates changes in the teacher labor market in response to the policy change.</div><br>
 </p>
 
 <p id="1.5-spaced" style="line-height: 150%;">
@@ -18,6 +18,11 @@ author_profile: true
 <div>The Returns to STEM Programs for Less-Prepared Students, with Evan Riehl</div><br>
 <div>We examine how returns to enrolling in science, technology, engineering, and math (STEM) programs vary with students’ academic preparation. We match data on STEM admissions at a Colombian flagship university to nationwide college and earnings records. Our identification strategy combines a regression discontinuity design with variation in admission quotas. We find that less-prepared students were less likely to complete a STEM degree than their more able peers, but they had larger earnings returns to enrolling. Our results suggest that policies that encourage less-prepared students to enroll in STEM programs can yield large but unevenly distributed earnings gains.</div> <br>
 </p>
+
+<div>Can Schools Predict Teacher Performance?</div><br>
+<div>This study examines the connection between past and future teacher value-added and teacher evaluations.  I leverage a unique data set with over 108,000 teacher-year observations to correlate the value-added measures and evaluations.  I proceed to search for heterogeneity in the connection between value-added and evaluations based on a variety of observable characteristics.  Utilizing machine learning techniques, I estimate optimal weights on prior teacher performance to predict career performance.  Using these future performance predictions, I simulate revised personnel decisions to determine whether schools are optimally incorporating the information available to them.</div> <br>
+</p>
+
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications </h2><br>

@@ -9,6 +9,7 @@ author_profile: true
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Teaching Assistantships at Cornell University</h2><br>
+<div>Development of Economic Thought and Institutions (ILRLE3440 / ECON 3300), Cornell University, Teaching Assistant, Spring, 2022</div>
 <div>Introductory Labor Economics (ILRLE2400), Cornell University, Teaching Assistant, Fall, 2021</div>
 <div>Introductory Labor Economics (ILRLE2400 & ILRLE5400), Cornell University, Teaching Assistant, Spring, 2020</div>
 <div>Introductory Microeconomics (ECON1110), Cornell University, Teaching Assistant, Fall, 2017 </div><br>

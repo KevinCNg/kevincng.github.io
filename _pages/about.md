@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-I am a Ph.D. candidate in the Department of Economics at Cornell University. My primary research interests include labor economics and the economics of education with work on K-12 teacher tenure, predictive models of teacher performance, returns to university STEM programs, and major league baseball aging curves.  I am particularly interested in research on teacher selection and incentives to maximize student outcomes; this is perhaps not surprising since I am a certified high school mathematics teacher.  I expect to graduate in Spring 2022.
+I am a Research Analyst in the Marine Corps and Defense Workforce Program of CNA.  My primary research interests include labor economics and the economics of education with work on K-12 teacher tenure, predictive models of teacher performance, returns to university STEM programs, and major league baseball aging curves.  I am particularly interested in research on teacher selection and incentives to maximize student outcomes.  
 
 <!-- My website is located at <https://KevinCNg.github.io>, which contains my CV and research materials. -->
 

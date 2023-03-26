@@ -17,7 +17,7 @@ author_profile: true
 <h2> Working Papers </h2><br>
 <div><a href="http://kevincng.github.io/files/stem.pdf">The Returns to STEM Programs for Less-Prepared Students</a><br>
 <p style="margin-left: 40px"> with Evan Riehl <br>
-Revise & resubmit, <i> American Economic Journal: Economic Policy </i> </p> </div> <br>
+Conditionally accepted, <i> American Economic Journal: Economic Policy </i> </p> </div> <br>
 
 <div>We examine how returns to enrolling in science, technology, engineering, and math (STEM) programs vary with students’ academic preparation. We match data on STEM admissions at a Colombian flagship university to nationwide college and earnings records. Our identification strategy combines a regression discontinuity design with variation in admission quotas. We find that less-prepared students were less likely to complete a STEM degree than their more able peers, but they had larger earnings returns to enrolling. Our results suggest that policies that encourage less-prepared students to enroll in STEM programs can yield large but unevenly distributed earnings gains.</div> <br>
 

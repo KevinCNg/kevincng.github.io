@@ -14,8 +14,8 @@ author_profile: true
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications and Forthcoming Articles</h2><br>
-<div><a href="http://kevincng.github.io/files/stem.pdf">The Returns to STEM Programs for Less-Prepared Students.</a> (2024). <i>American Economic Journal: Economic Policy</i>. 16 (2): 37-77. 
-<p style="margin-left: 40px"> with Evan Riehl </div><br>
+<div><a href="http://kevincng.github.io/files/stem.pdf">The Returns to STEM Programs for Less-Prepared Students.</a> (2024). <i>American Economic Journal: Economic Policy</i>. 16 (2): 37-77.</div> 
+<p style="margin-left: 40px"> with Evan Riehl <br>
 <div>We examine how returns to enrolling in science, technology, engineering, and math (STEM) programs vary with students’ academic preparation. We match data on STEM admissions at a Colombian flagship university to nationwide college and earnings records. Our identification strategy combines a regression discontinuity design with variation in admission quotas. We find that less-prepared students were less likely to complete a STEM degree than their more able peers, but they had larger earnings returns to enrolling. Our results suggest that policies that encourage less-prepared students to enroll in STEM programs can yield large but unevenly distributed earnings gains.</div> <br>
 </p>
 <div><a href="http://kevincng.github.io/files/Kevin_Ng_Predicting_Performance.pdf">  Identifying High-Quality Teachers</a>. (2023). <i>Education Economics</i>. 1-28.</div> <br>

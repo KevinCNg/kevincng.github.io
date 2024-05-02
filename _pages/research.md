@@ -22,5 +22,3 @@ author_profile: true
 </p>
 <div><a href="http://kevincng.github.io/files/Ng_2017.pdf">Analyzing Major League Baseball Player’s Performance Based on Age and Experience</a>. (2017). <i>Journal of Sports Economics & Management</i>. 7(2), 78-100.</div><br>
 <div>This study models player performance as a function of age, experience, and talent. The unbalanced panel includes 5,754 seasons spread among 562 batters and 4,767 seasons spread among 489 pitchers. Peak physical age for hitters and pitchers are 26.6 years and 24.5 years, respectively, when holding experience constant. With increased experience, batters peak near age 29, while pitchers peak near age 28. Also, batters encounter greater fluctuations in performance over their careers than pitchers. This model is designed for use by MLB teams to predict future performance based on a player’s first six years of statistics. </div> <br>
-</p>
-

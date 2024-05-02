@@ -15,6 +15,9 @@ author_profile: true
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications and Forthcoming Articles</h2><br>
 <div><a href="http://kevincng.github.io/files/stem.pdf">The Returns to STEM Programs for Less-Prepared Students</a> (with Evan Riehl). (2024). <i>American Economic Journal: Economic Policy</i>. 16 (2): 37-77.</div> <br>
+<p id="1-spaced" style="line-height: 100%;">
+<p style="margin-left: 40px">With Evan Riehl
+<p id="1.5-spaced" style="line-height: 150%;">
 <div>We examine how returns to enrolling in science, technology, engineering, and math (STEM) programs vary with students’ academic preparation. We match data on STEM admissions at a Colombian flagship university to nationwide college and earnings records. Our identification strategy combines a regression discontinuity design with variation in admission quotas. We find that less-prepared students were less likely to complete a STEM degree than their more able peers, but they had larger earnings returns to enrolling. Our results suggest that policies that encourage less-prepared students to enroll in STEM programs can yield large but unevenly distributed earnings gains.</div> <br>
 </p>
 <div><a href="http://kevincng.github.io/files/Kevin_Ng_Predicting_Performance.pdf">  Identifying High-Quality Teachers</a>. (2023). <i>Education Economics</i>. 1-28.</div> <br>
@@ -23,3 +26,4 @@ author_profile: true
 <p id="1.5-spaced" style="line-height: 100%;">
 <div><a href="http://kevincng.github.io/files/Ng_2017.pdf">Analyzing Major League Baseball Player’s Performance Based on Age and Experience</a>. (2017). <i>Journal of Sports Economics & Management</i>. 7(2), 78-100.</div> <br>
 <div>This study models player performance as a function of age, experience, and talent. The unbalanced panel includes 5,754 seasons spread among 562 batters and 4,767 seasons spread among 489 pitchers. Peak physical age for hitters and pitchers are 26.6 years and 24.5 years, respectively, when holding experience constant. With increased experience, batters peak near age 29, while pitchers peak near age 28. Also, batters encounter greater fluctuations in performance over their careers than pitchers. This model is designed for use by MLB teams to predict future performance based on a player’s first six years of statistics.</div> <br>
+<p id="1.5-spaced" style="line-height: 150%;">

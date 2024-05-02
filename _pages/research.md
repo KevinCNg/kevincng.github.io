@@ -14,7 +14,7 @@ author_profile: true
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications and Forthcoming Articles</h2><br>
-<div><a href="http://kevincng.github.io/files/stem.pdf">The Returns to STEM Programs for Less-Prepared Students</a>. (2024). <i>American Economic Journal: Economic Policy</i>. 16 (2): 37-77.</div> <br>
+<div><a href="http://kevincng.github.io/files/stem.pdf">The Returns to STEM Programs for Less-Prepared Students</a>. (2024). <i>American Economic Journal: Economic Policy</i>. 16 (2): 37-77.</div>
 <p id="1-spaced" style="line-height: 100%;">
 <p style="margin-left: 40px">with Evan Riehl<br>
 <p id="1.5-spaced" style="line-height: 150%;">
